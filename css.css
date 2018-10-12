@@ -1,0 +1,314 @@
+*{
+/*   border: solid 1px black;  */
+  vertical-align: top;
+  box-sizing: border-box;
+  position: relative;
+  font-family: 微軟正黑體;
+}
+
+html,body{
+  width: 100%; height: 100%;
+  padding: 0px; margin: 0px;
+}
+
+body{
+  background-color:#d1d1d1;
+  box-sizing: border-box;
+}
+
+.resume{
+  margin-top: 100px;
+  border-radius: 8px;
+  
+  margin-left: auto;
+  margin-right: auto;
+  
+  height: 891px;
+  width: 630px;
+  background-color:#fffdf4;
+  box-shadow: 5px 3px 20px rgba(0,0,0,0.5);
+  overflow: hidden;  
+}
+
+.top{
+  height: 180px;
+  overflow: hidden; 
+}
+
+.photo{
+  top: -145px;
+  opacity: .9;
+}
+
+.name{
+  height: 100px;
+  width: 250px;
+
+  top: -570px;
+  left: 70px;
+  
+  font-size: 1.2rem;
+  letter-spacing: 10px;
+  font-weight: bold;
+  color: #FFF;
+}
+
+.name span{
+  top: 5px;
+  font-size: 0.7rem;
+  letter-spacing: 1px;
+}
+
+.vline{
+  border: solid 3px #FFF;
+  top: -825px;
+  left: 55px;
+  
+  border-right:none;
+  border-top:none;
+  border-bottom:none;
+  
+  height: 200px;
+  width: 250px;
+}
+
+.top_title{
+  color: #c68e43;
+  top: -869px;
+  left: 470px;
+  
+  font-size: 1rem;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.top_title li{
+  font-size: 0.6rem;
+  list-style:none;
+  left: -20px;
+  top: -10px;
+  height: 20px;
+  letter-spacing: 1px;
+  font-weight: normal;
+  line-height: 24px;?
+}
+
+.vline2{
+  border: solid 1px #c68e43;
+  top: -952px;
+  left: 475px;
+  
+  border-right:none;
+  border-top:none;
+  border-bottom:none;
+  
+  height: 50px;
+  width: 20px;
+}
+
+
+.split{
+  display: inline-block;
+  width: 2px;
+  height: 700px;
+  top:-30px;
+  border: solid 1px #c4a77f;
+  border-style:dashed;
+  border-left:none;
+  border-top:none;
+  border-bottom:none;
+ 
+}
+
+.left{
+  display: inline-block;
+  width: 220px;
+  height: 842px;
+}
+
+.title1{
+  display: inline-block;
+  border: solid 5px #c68e43;
+
+  height: 18px;
+  width: 200px;
+  margin-top: 25px;
+  margin-left: 40px;
+  border-top :none;
+  border-right :none;
+  border-bottom: none;
+  padding-left: 10px;
+  
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #c68e43;
+}
+
+.item{
+  list-style:none;
+  font-size: 10px;
+  font-weight: bold;
+  margin-top: 20px;
+  line-height: 15px;?
+
+  color: #333;
+}
+
+.content{
+  font-size: 9px;
+  color: #333;
+  top: 3px;
+}
+
+.chart{
+  background-color: #ddd;
+  height: 9px;
+  width: 145px;
+  margin-top: 2px;
+  border-radius: 5px;
+}
+
+.Lheight2{
+  margin-top: 10px;
+  line-height: 15px;
+}
+
+.value{
+  background-color: #ddc4a1;
+  height: 5px;
+  top: 2px;
+  left: 2px;
+  border-radius: 5px;
+}
+
+.v1{ width: 50%;}
+.v2{ width: 55%;}
+.v3{ width: 70%;}
+.v4{ width: 60%;}
+.v5{ width: 70%;}
+.v6{ width: 60%;}
+
+.right{
+  display: inline-block;
+  width: 370px;
+  height: 842px;
+}
+
+.Lheight3{
+  font-size: 10px;
+  margin-top: 10px;
+  line-height: 20px;
+}
+
+.Lheight4{
+  font-size: 8px;
+  line-height: 10px;
+  color: #8e8e8e;
+}
+
+.table{
+  width: 400px;
+}
+
+.pie{
+  top: 10px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-top: 0px;
+  text-align: center;
+  margin-right:35px;
+  width:80px;
+  height: 80px;
+  
+  overflow: hidden;
+}
+
+.pichart{
+  width:80px;
+  height: 80px;
+  background-color: #ddc4a1;
+  border-radius: 50%;
+}
+
+.square{
+  width:40px;
+  height: 40px;
+
+}
+
+.gray1{
+  background-color: #e8e8e8;
+  top: -40px;
+  left: 90px;
+  
+  transform-origin:0px 0px;
+}
+
+.brown1{
+  background-color: #ddc4a1;
+  top: -80px;
+  left: 40px;
+  
+  transform-origin:0px 0px;
+  transform:rotate(18deg);
+}
+
+.brown2{
+  background-color: #ddc4a1;
+  top: -80px;
+  left: 40px;
+  
+  transform-origin:0px 0px;
+  transform:rotate(80deg);
+}
+
+.gray2{
+  background-color: #e8e8e8;
+  top: -120px;
+  left: 50px;
+  height:80px;
+  
+  transform-origin:0px 0px;
+}
+
+.text{
+  top: 22px;
+}
+
+.percent{
+  top: 2px;
+  font-size: 12px;
+  color: #8e8e8e;
+}
+
+
+.circle{
+  width:70px;
+  height: 70px;
+  border-radius: 50%;
+  top: -155px;
+  left: 5px;
+  background-color: #fffdf4;
+  line-height:15px;
+}
+
+.c2{
+  top: -195px;
+}
+
+.move{
+  top: 6px;
+}
+
+.page_title{
+  height: 150px;
+  text-align: center;
+  top: 50px;
+}
+
+.title_content{
+  top: 20px;
+  font-size: 10px;
+  left: 20px;
+  margin-right: 40px;
+}

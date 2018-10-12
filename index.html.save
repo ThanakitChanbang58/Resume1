@@ -1,0 +1,150 @@
+
+<head>
+<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body>
+<div class="resume">
+  <div class="top">
+    <img class="photo" src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/40093154_1987777651281507_2443512172932759552_n.jpg?_nc_cat=105&amp;oh=3b931e5f1099e555306bd86a2623081d&amp;oe=5C628658" height="630"/>
+    
+     <div class="name">
+    Pong<br><span>Thanakit Chanbang
+    </span></div>
+    <div class="vline"></div>
+    
+    <div class="top_title">
+      Engineering<br><ul>
+      <li>Deverloper</li>
+      <li>Graphic</li>
+      <li>User interface</li>
+      </ul> 
+    </div>
+    <div class="vline2"></div>
+  </div>
+  
+  <div class="left">
+    <div class="title1">
+      About me
+     </div>
+    <ul><li class="item content">I'm a simple guy. Enjoy the game with friends. Currently studying engineering is searching for his identity. I like hardwired in the circuit rather than write code.</ul>
+     
+    <div class="title1">
+      Contact
+    </div><ul>
+     <li class="item">
+     Email <br> <span class="content">Thanakitc58@email.nu.ac.th</span> 
+     </li> 
+    
+     <li class="item">
+     Mobile <br><span class="content">(+66)994672558</span> 
+     </li> 
+    
+    <li class="item">
+     Address <br>
+      <span class="content">55 Moo 5.District Nakorn Thai<br>
+ , Phitsanulok Province 65120<br>
+Thailand</span> 
+     </li>
+  </ul>
+    
+    <div class="title1">
+      Related Skills ,
+    </div>
+    <ul>
+     <li class="item Lheight2">
+     Code C++, C# , Phython  <br> <div class="chart"><div class="value v1"></div></div> 
+     </li> 
+    
+     <li class="item Lheight2">
+     Application<br><div class="chart"><div class="value v2"></div></div>
+     </li> 
+    
+    <li class="item Lheight2">      
+   Repair Hardware <br><div class="chart"><div class="value v3"></div></div>
+     </li>
+    
+    <li class="item Lheight2">     
+     Photoshop <br><div class="chart"><div class="value v4"></div></div>
+     </li>
+    
+    <li class="item Lheight2">     
+     Html , Css <br><div class="chart"><div class="value v5"></div></div>
+     </li>
+    
+    <li class="item Lheight2">     
+    Design Ui <br><div class="chart"><div class="value v6"></div></div>
+     </li>
+    </ul>
+        
+   </div>
+  <div class="split"></div><div class="right">
+  <div class="title1">
+      Education Background
+     </div><ul>
+     <li class="item">
+    High School <br> <span class="content">Nakhonthai School . 2010 - Feb.2016</span> 
+     </li> 
+    
+     <li class="item">
+   Computer Engineering <br><span class="content">Naresuan University . 2015 - Jul.2018</span> 
+     </li> 
+  </ul>
+  
+  <div class="title1">
+      Languages
+     </div>
+  <div class="table">
+    <ul>
+      
+     <li class="item pie">
+       <div class="pichart"></div>
+       <div class="square gray1"></div>
+       <div class="square brown1"></div>
+       <div class="circle"><div class="text">Thai<br><span class="percent">100%</span></div> </div>
+     </li> 
+       <li class="item pie">
+       <div class="pichart"></div>
+       <div class="square gray1"></div>
+       <div class="square gray2"></div>
+       <div class="circle c2"><div class="text">English<br><span class="percent">50%</span></div> </div>
+    
+    
+  </div>
+  
+  <div class="title1 move">
+      Awards
+  </div><ul class="move" >
+     <li class="item Lheight3">
+     2014 NCTU School of Architecture Internal Competition – Finalist <br><span class="content Lheight4">with  Kao,Shih-Han?Chao,Tse-Hsin?Kan,Chuan</span> 
+     </li> 
+    
+     <li class="item Lheight3">
+     2015 NCTU School of Architecture Internal Competition – Finalist <br><span class="content Lheight4">
+       with   Lin,Ya-Pei?Li,Si-Min? Chunag,Hsiang-Cheng</span> 
+     </li> 
+  
+  <li class="item Lheight3">
+     Competition of the Revitalization of the 6th Japanese Naval Fuel Depot in Hsinchu – Second Place <br><span class="content Lheight4">with   Lin,Ya-Pei?Li,Si-Min? Chunag,Hsiang-Cheng</span> 
+     </li>
+  
+  <li class="item Lheight3">
+     2016 NCTU School of Architecture Internal Competition – First Price  <br><span class="content Lheight4">with  Pan,Jui-Yu?Chunag,Hsiang-Cheng?Lo,Pei-Yun</span> 
+     </li>
+  
+  <li class="item Lheight3">
+     2017 Theatre Architecture Competition – Addition Price  <br><span class="content Lheight4">with  Tsai,Chun-Yang?Hsu,Ming-Ya?Yang,Chen-Yu?Chen,I-Hao?Hung,Hao-Che?Yang,Ju-Chiang</span> 
+     </li>
+  </ul>
+  
+  </div>
+</div>
+
+<div class="page_title">Homework - resume 
+  <br>
+  <span class="title_content">Student :Thanakit Chanbang</span>
+  
+  <span class="title_content">Adviser : Theerawut Thaweephattharawong</span>
+  
+  <span class="title_content">cmplt. Date : 2018 / 10 / 12</span>
+</div>
+</body>
