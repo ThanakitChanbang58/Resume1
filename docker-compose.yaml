@@ -1,8 +1,8 @@
-version: '3'
+version: '3.5'
 services:
   myapp:
-    image: thanakit/node-express
+    image: thanakitc58/resume1
     ports:
-      - "8000:8000"
+      - "8014:8000"
     command: "node index.js"
 
